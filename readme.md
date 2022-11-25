@@ -1,5 +1,6 @@
-# MARWA AL SHAHAL
-Front-End Web Developer looking to get into fullstack. Well-versed in React to build single-page applications, with a strong problem-solving and analytical skills that comes from my Mathematical background. Qualified and goal oriented person with effective communication & teamwork skills that I bring from my teaching experience
+# <img src="avatar.png" width="20" height="20" /> MARWA AL SHAHAL
+Front-End Web Developer looking to get into fullstack. Well-versed in React to build single-page applications, with a strong problem-solving and analytical skills that comes from my Mathematical background. Qualified and goal oriented person with effective communication & teamwork skills that I bring from my teaching experience.
+#####  [marwa.al.shahal@gmail.com](marwa.al.shahal@gmail.com) | [LinkedIn](http://www.linkedin.com/in/marwa-al-shahal) | [Github](https://github.com/marwa-shahal) 
 
 ## WORK EXPERIENCE 
 ### **Coding & Robotics Trainer**, CodeBrave, Lebanon                     	                                             
@@ -60,3 +61,6 @@ HTML5, CSS, JavaScript, React, Python
 Firebase, GitHub, Responsive designs
 ### **Soft skills:** 
 Agile Management, Teamwork, Leadership, Analytical skills, Effective communication
+
+## LANGUAGES:  
+English (Advanced) ,  Arabic (Native)
